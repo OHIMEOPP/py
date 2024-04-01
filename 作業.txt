@@ -1,0 +1,3 @@
+first ->"The sun was setting behind the distant mountains, casting a warm golden glow over the tranquil valley below. 
+second-> The trees swayed gently in the breeze, their leaves rustling softly. Birds chirped happily as they flew homeward, their silhouettes dancing against the colorful sky. 
+thier-> It was a peaceful evening, a time for reflection and relaxation. As the day drew to a close, the world seemed to slow down, enveloped in a sense of calm and serenity."
